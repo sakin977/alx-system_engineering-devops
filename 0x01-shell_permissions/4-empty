@@ -1,1 +1,2 @@
+#!/bin/bash
 fsutil file createnew hello 0
