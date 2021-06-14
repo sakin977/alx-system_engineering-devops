@@ -1,0 +1,25 @@
+total 88
+drwxr-xr-x 2 root root 4096 Jun 14 10:24 .
+drwxr-xr-x 6 root root  156 Jun 14 10:17 ..
+-rwxr-xr-x 1 root root   36 Jun 14 10:17 0-hello_world
+-rw-r--r-- 1 root root   48 Jun 14 10:17 10-no_more_js
+-rw-r--r-- 1 root root   36 Jun 14 10:17 11-directories
+-rw-r--r-- 1 root root   26 Jun 14 10:17 12-newest_files
+-rw-r--r-- 1 root root   34 Jun 14 10:17 14-findthatword
+-rw-r--r-- 1 root root   36 Jun 14 10:17 15-countthatword
+-rw-r--r-- 1 root root   39 Jun 14 10:17 16-whatsnext
+-rw-r--r-- 1 root root   36 Jun 14 10:17 17-hidethisword
+-rw-r--r-- 1 root root   32 Jun 14 10:17 18-letteronly
+-rw-r--r-- 1 root root   12 Jun 14 10:17 1-confused_smiley
+-rw-r--r-- 1 root root   38 Jun 14 10:17 20-hiago
+-rw-r--r-- 1 root root   31 Jun 14 10:17 21-reverse
+-rw-r--r-- 1 root root   43 Jun 14 10:17 22-users_and_homes
+-rwxr-xr-x 1 root root   29 Jun 14 10:17 2-hellofile
+-rwxr-xr-x 1 root root   41 Jun 14 10:17 3-twofiles
+-rwxr--r-- 1 root root   33 Jun 14 10:17 4-lastlines
+-rwxr--r-- 1 root root   33 Jun 14 10:17 5-firstlines
+-rwxr--r-- 1 root root   36 Jun 14 10:17 6-third_line
+-rwxr--r-- 1 root root   82 Jun 14 10:17 7-file
+-rwxr--r-- 1 root root   36 Jun 14 10:17 8-cwd_state
+-rw-r--r-- 1 root root   27 Jun 14 10:17 9-duplicate_last_line
+-rw-r--r-- 1 root root    0 Jun 14 10:24 ls_cwd_content
